@@ -1,3 +1,26 @@
+# Database Learning Journey
+
+This repository documents my structured learning of:
+
+- SQL (Relational Databases)
+- PL/SQL (Procedural SQL)
+- MongoDB (NoSQL Databases)
+
+It includes notes, practice queries, projects, and interview preparation.
+
+## Structure
+
+- sql/       → Core SQL concepts
+- plsql/     → Oracle PL/SQL programming
+- mongodb/   → NoSQL with MongoDB
+- projects/  → Real-world database projects
+- cheatsheets/ → Quick revision notes
+- resources/ → Learning materials
+
+## Goal
+
+To build strong database fundamentals for backend and full-stack development.
+
 ```markdown
 database-learning-journey/
 │
